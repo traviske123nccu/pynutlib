@@ -13,3 +13,7 @@ A nutrition scoring and visualization tool built with Python + Streamlit, levera
 ```python
 from pynut import search_usda_foods, calculate_tee, score_menu
 ```
+
+## Business Application
+
+See `Applying the Package we Published - Pynutlib.pdf` to find out how businesses can use our package in their business analytics process.
