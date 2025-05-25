@@ -5,7 +5,7 @@ A nutrition scoring and visualization tool built with Python + Streamlit, levera
 ## Install
 
 ```bash
-pip install pynutlib
+!pip install pynutlib
 ```
 
 ## Usage
